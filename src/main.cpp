@@ -4,6 +4,8 @@
 #include "Renderer.h"
 #include "GameManager.h"
 #include <memory>
+#include <ctime>
+#include <cstdlib>
 
 #include <iostream>
 
@@ -29,7 +31,8 @@ void update_SDL_input(const uint8_t **current_key_states) {
 }
 
 int main() {
-	
+	srand(time(nullptr));
+
 	SDL_Init(SDL_INIT_VIDEO);
 	if (!(IMG_Init(IMG_INIT_PNG) & IMG_INIT_PNG))
 	{
