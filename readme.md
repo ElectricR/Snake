@@ -16,7 +16,7 @@
 
 <details>
 	<summary> Скриншоты </summary>
-![text](https://i.imgur.com/ujIP3km.png)
+[![Screenshot-from-2021-02-14-03-00-45.png](https://i.postimg.cc/g2sQPczB/Screenshot-from-2021-02-14-03-00-45.png)](https://postimg.cc/LJqNtpZz)
 
 	
 </details>
