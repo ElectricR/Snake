@@ -16,9 +16,7 @@
 
 <details>
 	<summary> Скриншоты </summary>
-	![alt text](https://imgur.com/7QkU72v)
-	![alt text](https://imgur.com/gScCrBd)
-	![text](https://i.imgur.com/ujIP3km.png)
+![text](https://i.imgur.com/ujIP3km.png)
 
 	
 </details>
