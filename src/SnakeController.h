@@ -55,7 +55,7 @@ public:
 		return score_;
 	}
 private:
-	unsigned score_ = 3;
+	unsigned score_ = 0;
 	const uint8_t *&current_key_states_;
 	int last_key_pressed_;
 	bool reverse_requested_ = false;

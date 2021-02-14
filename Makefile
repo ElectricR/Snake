@@ -5,9 +5,9 @@ build:
 	cd build/; make
 
 run:
-	./build/build/CSCSnake
+	./Snake
 
 debug:
-	gdb ./build/build/CSCSnake
+	gdb ./build/build/Snake
 
 .PHONY: all build run debug
